@@ -1,0 +1,11 @@
+Category,Name,Price,Rating,Reviews,URL,Price_Clean,Reviews_Clean,Rating_Clean,Est_Revenue,Price_Tier,Value_Score
+Electronics,Wireless Earbuds,US$25.99,4.8,1.2k reviews,http://example.com/1,25.99,1200,4.8,311880.0,Mid-Range,1.846864178530204
+Electronics,Generic Cable,US$2.50,3.5,45 reviews,http://example.com/2,2.5,45,3.5,1125.0,Budget,14.0
+Smartphones,Redmi Note 12,US$199.00,4.5,500 reviews,http://example.com/3,199.0,500,4.5,995000.0,Premium,0.22613065326633167
+Smartphones,iPhone 13 Case,US$5.99,,,http://example.com/4,5.99,0,4.5,0.0,Budget,7.512520868113523
+Home & Garden,Smart LED Bulb,US$12.50,4.9,2.5k reviews,http://example.com/5,12.5,2500,4.9,312500.0,Budget,3.92
+Home & Garden,Garden Hose,US$35.00,4.2,120 reviews,http://example.com/6,35.0,120,4.2,42000.0,Mid-Range,1.2000000000000002
+Lights,Solar Garden Light,US$15.99,4.6,89 reviews,http://example.com/7,15.99,89,4.6,14231.1,Mid-Range,2.8767979987492183
+Lights,Desk Lamp,US$45.00,4.7,1.1k reviews,http://example.com/8,45.0,1100,4.7,495000.0,Premium,1.0444444444444445
+Projectors,Mini Projector 4K,US$150.00,4.3,300 reviews,http://example.com/9,150.0,300,4.3,450000.0,Premium,0.2866666666666667
+Electronics,Bluetooth Speaker,US$45.50,4.4,210 reviews,http://example.com/10,45.5,210,4.4,95550.0,Premium,0.967032967032967
